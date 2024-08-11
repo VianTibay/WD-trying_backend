@@ -4,8 +4,8 @@ export default function Home() {
  <main>
 
   <br></br>
-  <Link href="/pg">
-Link!
+  <Link href="/pages/api">
+api
   </Link>
  </main>
   );
